@@ -1,0 +1,283 @@
+[14-Nov-2016 20:51:52 CST6CDT] PHP Parse error:  syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/brenardc/public_html/teamlist.php on line 17
+[14-Nov-2016 20:52:14 CST6CDT] PHP Parse error:  syntax error, unexpected '"</td></tr>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/brenardc/public_html/teamlist.php on line 16
+[15-Nov-2016 14:04:32 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/brenardc/public_html/teamlist.php on line 12
+[15-Nov-2016 14:04:32 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/brenardc/public_html/teamlist.php on line 12
+[15-Nov-2016 14:05:12 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/brenardc/public_html/teamlist.php on line 12
+[21-Nov-2016 09:38:22 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/brenardc/public_html/teamlist.php on line 12
+[21-Nov-2016 09:43:50 CST6CDT] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/brenardc/public_html/teamlist.php on line 12
+[21-Nov-2016 10:24:01 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/brenardc/public_html/playerlist.php on line 18
+[21-Nov-2016 18:26:34 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 3
+[21-Nov-2016 18:29:19 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 3
+[21-Nov-2016 18:29:48 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 3
+[21-Nov-2016 18:30:16 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 3
+[21-Nov-2016 18:32:10 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/brenardc/public_html/playeradd.php on line 3
+[21-Nov-2016 18:35:39 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/brenardc/public_html/playeradd.php on line 3
+[21-Nov-2016 18:35:40 CST6CDT] PHP Parse error:  syntax error, unexpected '$_REQUEST' (T_VARIABLE) in /home/brenardc/public_html/playeradd.php on line 3
+[21-Nov-2016 18:35:47 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 3
+[21-Nov-2016 18:39:19 CST6CDT] PHP Parse error:  syntax error, unexpected ''". $_REQUEST["firstname"] . "' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:39:41 CST6CDT] PHP Parse error:  syntax error, unexpected ''" . $_REQUEST["firstname"] . ' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:40:57 CST6CDT] PHP Parse error:  syntax error, unexpected ''" . $_REQUEST["firstname"] . ' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:43:09 CST6CDT] PHP Parse error:  syntax error, unexpected ''" . $_REQUEST["firstname"] . ' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:43:31 CST6CDT] PHP Parse error:  syntax error, unexpected ''"$_REQUEST["firstname"] . "'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:43:54 CST6CDT] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:44:12 CST6CDT] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:50:31 CST6CDT] PHP Parse error:  syntax error, unexpected '$fName' (T_VARIABLE), expecting ']' in /home/brenardc/public_html/playeradd.php on line 6
+[21-Nov-2016 18:50:40 CST6CDT] PHP Parse error:  syntax error, unexpected '$fName' (T_VARIABLE), expecting ']' in /home/brenardc/public_html/playeradd.php on line 6
+[21-Nov-2016 18:51:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/playeradd.php on line 6
+[21-Nov-2016 18:51:28 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playeradd.php on line 9
+[21-Nov-2016 18:55:48 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:56:07 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 18:57:58 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 19:02:08 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 19:02:27 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 19:06:19 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playeradd.php on line 14
+[21-Nov-2016 19:12:13 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 19:12:39 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[21-Nov-2016 19:12:52 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playeradd.php on line 4
+[22-Nov-2016 06:13:18 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/brenardc/public_html/index.php on line 4
+[22-Nov-2016 06:13:51 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/brenardc/public_html/index.php on line 4
+[22-Nov-2016 06:14:20 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/brenardc/public_html/index.php on line 4
+[22-Nov-2016 06:14:24 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/brenardc/public_html/index.php on line 4
+[22-Nov-2016 06:14:26 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/brenardc/public_html/index.php on line 4
+[22-Nov-2016 06:14:47 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/brenardc/public_html/index.php on line 4
+[22-Nov-2016 06:16:05 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/brenardc/public_html/index.php on line 4
+[22-Nov-2016 06:16:45 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/brenardc/public_html/index.php on line 23
+[22-Nov-2016 06:17:47 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/teamstats.php on line 5
+[22-Nov-2016 06:30:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/schedule.php on line 4
+[22-Nov-2016 06:50:03 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 8
+[22-Nov-2016 06:50:18 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 8
+[22-Nov-2016 06:50:37 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 8
+[22-Nov-2016 06:51:08 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 8
+[22-Nov-2016 07:00:15 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playerlist.php on line 10
+[22-Nov-2016 07:00:32 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playerlist.php on line 10
+[22-Nov-2016 07:00:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'id' (T_STRING) in /home/brenardc/public_html/playerlist.php on line 10
+[22-Nov-2016 07:01:02 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playerlist.php on line 10
+[22-Nov-2016 07:01:23 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 10
+[22-Nov-2016 07:01:38 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playerlist.php on line 10
+[22-Nov-2016 07:01:52 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playerlist.php on line 10
+[22-Nov-2016 07:02:04 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playerlist.php on line 10
+[22-Nov-2016 07:14:08 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/index.php on line 24
+[22-Nov-2016 07:14:30 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/index.php on line 24
+[22-Nov-2016 07:23:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/schedule.php on line 4
+[22-Nov-2016 09:09:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/teamstats.php on line 5
+[22-Nov-2016 11:03:33 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/index.php on line 17
+[22-Nov-2016 11:04:02 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/index.php on line 17
+[22-Nov-2016 11:04:37 CST6CDT] PHP Parse error:  syntax error, unexpected '"</td><td><a href='teamstats.p' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/brenardc/public_html/index.php on line 18
+[22-Nov-2016 11:19:03 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/brenardc/public_html/index.php on line 19
+[22-Nov-2016 11:24:34 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/index.php on line 19
+[22-Nov-2016 11:29:45 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/index.php on line 19
+[22-Nov-2016 11:29:58 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/index.php on line 19
+[22-Nov-2016 11:30:11 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/index.php on line 19
+[22-Nov-2016 11:31:48 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE), expecting ',' or ';' in /home/brenardc/public_html/index.php on line 19
+[22-Nov-2016 14:40:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/brenardc/public_html/index.php on line 16
+[22-Nov-2016 20:26:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/teamstats.php on line 5
+[22-Nov-2016 21:22:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'dbconnect' (T_STRING) in /home/brenardc/public_html/teamroster.php on line 2
+[22-Nov-2016 21:23:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'dbconnect' (T_STRING) in /home/brenardc/public_html/teamroster.php on line 2
+[22-Nov-2016 21:24:00 CST6CDT] PHP Fatal error:  require(): Failed opening required 'dbconnectphp' (include_path='.:/usr/local/php56/pear') in /home/brenardc/public_html/teamroster.php on line 2
+[22-Nov-2016 21:32:37 CST6CDT] PHP Parse error:  syntax error, unexpected '$team' (T_VARIABLE), expecting ',' or ';' in /home/brenardc/public_html/teamroster.php on line 9
+[22-Nov-2016 22:14:44 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/brenardc/public_html/draftplayer.php on line 8
+[22-Nov-2016 22:15:52 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/brenardc/public_html/draftplayer.php on line 8
+[22-Nov-2016 22:15:52 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/brenardc/public_html/draftplayer.php on line 8
+[22-Nov-2016 22:35:44 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 25
+[22-Nov-2016 22:36:02 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 25
+[22-Nov-2016 22:37:14 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 25
+[22-Nov-2016 22:38:52 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 25
+[22-Nov-2016 22:39:57 CST6CDT] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/brenardc/public_html/draftplayer.php on line 8
+[22-Nov-2016 22:42:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/draftplayer.php on line 10
+[22-Nov-2016 22:46:03 CST6CDT] PHP Parse error:  syntax error, unexpected '$hi' (T_VARIABLE) in /home/brenardc/public_html/draftplayer.php on line 7
+[22-Nov-2016 22:47:04 CST6CDT] PHP Parse error:  syntax error, unexpected '$hi' (T_VARIABLE) in /home/brenardc/public_html/draftplayer.php on line 7
+[22-Nov-2016 22:47:15 CST6CDT] PHP Parse error:  syntax error, unexpected '$hi' (T_VARIABLE) in /home/brenardc/public_html/draftplayer.php on line 7
+[22-Nov-2016 22:51:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/draftplayer.php on line 10
+[22-Nov-2016 22:51:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/draftplayer.php on line 10
+[22-Nov-2016 22:53:50 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/draftplayer.php on line 5
+[22-Nov-2016 23:11:03 CST6CDT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/brenardc/public_html/draftplayer.php on line 14
+[22-Nov-2016 23:11:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE), expecting ',' or ';' in /home/brenardc/public_html/draftplayer.php on line 14
+[22-Nov-2016 23:11:59 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/brenardc/public_html/draftplayer.php on line 16
+[22-Nov-2016 23:13:00 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/brenardc/public_html/draftplayer.php on line 16
+[22-Nov-2016 23:52:39 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/brenardc/public_html/draftplayer.php on line 6
+[23-Nov-2016 00:00:57 CST6CDT] PHP Parse error:  syntax error, unexpected '" Roster: </b><br>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/brenardc/public_html/teamroster.php on line 10
+[23-Nov-2016 00:56:48 CST6CDT] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/brenardc/public_html/teamroster.php on line 17
+[23-Nov-2016 01:12:13 CST6CDT] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/brenardc/public_html/teamroster.php on line 18
+[23-Nov-2016 01:15:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/teamstats.php on line 5
+[23-Nov-2016 01:15:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/schedule.php on line 4
+[23-Nov-2016 01:53:08 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/teamroster.php on line 21
+[23-Nov-2016 02:17:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/teamstats.php on line 5
+[25-Nov-2016 14:43:01 CST6CDT] PHP Fatal error:  Call to undefined method mysqli_result::fetcht() in /home/brenardc/public_html/playermetrics.php on line 17
+[25-Nov-2016 14:43:16 CST6CDT] PHP Fatal error:  Call to undefined method mysqli_result::fetch() in /home/brenardc/public_html/playermetrics.php on line 17
+[25-Nov-2016 16:07:20 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playermetrics.php on line 36
+[25-Nov-2016 16:07:30 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playermetrics.php on line 36
+[25-Nov-2016 16:07:32 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playermetrics.php on line 36
+[25-Nov-2016 16:32:33 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playermetrics.php on line 36
+[25-Nov-2016 16:45:31 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 51
+[25-Nov-2016 16:45:54 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 51
+[25-Nov-2016 16:46:05 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 51
+[25-Nov-2016 17:11:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting '(' in /home/brenardc/public_html/playermetrics.php on line 52
+[25-Nov-2016 17:11:44 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting '(' in /home/brenardc/public_html/playermetrics.php on line 52
+[25-Nov-2016 17:12:46 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting '(' in /home/brenardc/public_html/playermetrics.php on line 52
+[25-Nov-2016 17:12:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting '(' in /home/brenardc/public_html/playermetrics.php on line 52
+[25-Nov-2016 17:13:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting '(' in /home/brenardc/public_html/playermetrics.php on line 52
+[25-Nov-2016 17:23:11 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 17:23:50 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 17:23:57 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 17:24:30 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 18:44:41 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 18:45:14 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 18:57:00 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 53
+[25-Nov-2016 18:57:21 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 53
+[25-Nov-2016 18:58:39 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 19:00:26 CST6CDT] PHP Parse error:  syntax error, unexpected ''$pid'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 19:00:46 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 19:04:04 CST6CDT] PHP Parse error:  syntax error, unexpected ''$pid'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 54
+[25-Nov-2016 19:23:11 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:23:27 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:23:38 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:24:04 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:25:02 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:29:23 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:31:35 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:31:52 CST6CDT] PHP Parse error:  syntax error, unexpected ''$pid'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:33:00 CST6CDT] PHP Parse error:  syntax error, unexpected '$metric' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:34:27 CST6CDT] PHP Parse error:  syntax error, unexpected '" ."' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:34:49 CST6CDT] PHP Parse error:  syntax error, unexpected '" . WHERE PID ="' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:35:11 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:35:28 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:35:57 CST6CDT] PHP Parse error:  syntax error, unexpected '" . WHERE PID = . '"' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:36:20 CST6CDT] PHP Parse error:  syntax error, unexpected '" . WHERE PID ="' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:36:45 CST6CDT] PHP Parse error:  syntax error, unexpected '" . WHERE PID ='"' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 19:42:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'PID' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:43:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 61
+[25-Nov-2016 19:43:34 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 62
+[25-Nov-2016 19:44:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 19:45:41 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 61
+[25-Nov-2016 19:46:05 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:46:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:47:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:47:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:48:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:49:21 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:51:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 19:51:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 19:52:16 CST6CDT] PHP Parse error:  syntax error, unexpected '' .";' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 19:52:50 CST6CDT] PHP Parse error:  syntax error, unexpected ''";' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 19:53:15 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 19:54:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:55:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:55:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:56:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:58:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:58:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:58:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 19:59:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:00:08 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:00:41 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:03:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:04:05 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:04:25 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:05:59 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 20:08:25 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $metric . "'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 20:08:30 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $metric . "'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 20:08:47 CST6CDT] PHP Parse error:  syntax error, unexpected '' . $metric . '' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 20:09:08 CST6CDT] PHP Parse error:  syntax error, unexpected ''$metric'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 20:09:32 CST6CDT] PHP Parse error:  syntax error, unexpected ''$metric'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 20:09:32 CST6CDT] PHP Parse error:  syntax error, unexpected ''$metric'' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 20:11:37 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:11:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:12:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:12:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:13:11 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:14:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'WHERE' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:15:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 20:15:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 20:15:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 20:18:02 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 20:18:15 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 20:18:38 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:19:21 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 20:19:49 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 72
+[25-Nov-2016 20:20:37 CST6CDT] PHP Parse error:  syntax error, unexpected ''";' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 20:26:27 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 20:28:39 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 20:31:52 CST6CDT] PHP Parse error:  syntax error, unexpected ''";' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 71
+[25-Nov-2016 20:32:11 CST6CDT] PHP Parse error:  syntax error, unexpected ''"";' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 71
+[25-Nov-2016 20:33:23 CST6CDT] PHP Parse error:  syntax error, unexpected ''""";' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 71
+[25-Nov-2016 20:35:41 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 20:36:09 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 20:37:56 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 20:38:14 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 20:39:00 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 20:39:23 CST6CDT] PHP Parse error:  syntax error, unexpected ''";' (T_CONSTANT_ENCAPSED_STRING) in /home/brenardc/public_html/playermetrics.php on line 71
+[25-Nov-2016 21:46:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'metric' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 52
+[25-Nov-2016 21:49:22 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 21:54:04 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 71
+[25-Nov-2016 21:54:39 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 21:56:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 71
+[25-Nov-2016 21:57:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'playerlist' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 71
+[25-Nov-2016 21:58:05 CST6CDT] PHP Parse error:  syntax error, unexpected ''" ;' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 21:58:30 CST6CDT] PHP Parse error:  syntax error, unexpected ''";' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 21:58:47 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 21:59:12 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 21:59:47 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 22:00:06 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 22:01:06 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 60
+[25-Nov-2016 22:01:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 60
+[25-Nov-2016 22:03:41 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 22:04:06 CST6CDT] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 22:07:01 CST6CDT] PHP Parse error:  syntax error, unexpected '' ;' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 56
+[25-Nov-2016 22:08:40 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 22:09:18 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 22:10:01 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 22:27:26 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 22:27:35 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 22:31:31 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 25
+[25-Nov-2016 22:32:23 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 25
+[25-Nov-2016 22:33:07 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 25
+[25-Nov-2016 22:35:02 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playerlist.php on line 25
+[25-Nov-2016 22:35:32 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 25
+[25-Nov-2016 22:37:30 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 26
+[25-Nov-2016 22:38:05 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playerlist.php on line 26
+[25-Nov-2016 22:58:13 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:01:07 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/teamstats.php on line 5
+[25-Nov-2016 23:05:13 CST6CDT] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:05:32 CST6CDT] PHP Parse error:  syntax error, unexpected '$metric' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:06:25 CST6CDT] PHP Parse error:  syntax error, unexpected '$metric' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:06:47 CST6CDT] PHP Parse error:  syntax error, unexpected '$metric' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:07:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$metric' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:09:42 CST6CDT] PHP Parse error:  syntax error, unexpected '$metric' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:12:15 CST6CDT] PHP Parse error:  syntax error, unexpected '$metric' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:12:45 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:13:11 CST6CDT] PHP Parse error:  syntax error, unexpected '$pid' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 57
+[25-Nov-2016 23:13:31 CST6CDT] PHP Parse error:  syntax error, unexpected '$usrTeam' (T_VARIABLE) in /home/brenardc/public_html/playermetrics.php on line 58
+[25-Nov-2016 23:13:47 CST6CDT] PHP Parse error:  syntax error, unexpected '';' (T_ENCAPSED_AND_WHITESPACE) in /home/brenardc/public_html/playermetrics.php on line 53
+[26-Nov-2016 00:36:21 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/brenardc/public_html/playermetrics.php on line 38
+[26-Nov-2016 00:44:44 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playermetrics.php on line 82
+[26-Nov-2016 00:45:20 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playermetrics.php on line 82
+[26-Nov-2016 00:46:37 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/playermetrics.php on line 80
+[26-Nov-2016 00:54:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 99
+[26-Nov-2016 00:54:59 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 99
+[26-Nov-2016 00:55:40 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/playermetrics.php on line 99
+[26-Nov-2016 01:21:52 CST6CDT] PHP Parse error:  syntax error, unexpected '/' in /home/brenardc/public_html/playermetrics.php on line 9
+[27-Nov-2016 06:32:17 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/teamstats.php on line 5
+[27-Nov-2016 07:02:02 CST6CDT] PHP Parse error:  syntax error, unexpected '$team' (T_VARIABLE) in /home/brenardc/public_html/teamstats.php on line 5
+[27-Nov-2016 07:02:59 CST6CDT] PHP Parse error:  syntax error, unexpected '$team' (T_VARIABLE) in /home/brenardc/public_html/teamstats.php on line 5
+[27-Nov-2016 07:05:25 CST6CDT] PHP Parse error:  syntax error, unexpected '$team' (T_VARIABLE) in /home/brenardc/public_html/teamstats.php on line 5
+[27-Nov-2016 07:06:11 CST6CDT] PHP Parse error:  syntax error, unexpected '$team' (T_VARIABLE) in /home/brenardc/public_html/teamstats.php on line 5
+[27-Nov-2016 07:07:21 CST6CDT] PHP Parse error:  syntax error, unexpected '$tm' (T_VARIABLE) in /home/brenardc/public_html/teamstats.php on line 5
+[27-Nov-2016 07:10:00 CST6CDT] PHP Parse error:  syntax error, unexpected '$tm' (T_VARIABLE) in /home/brenardc/public_html/teamstats.php on line 5
+[27-Nov-2016 07:44:52 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/teamstats.php on line 28
+[27-Nov-2016 11:33:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/salaryadd.php on line 13
+[27-Nov-2016 11:34:30 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/salaryadd.php on line 13
+[27-Nov-2016 11:34:54 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/salaryadd.php on line 13
+[27-Nov-2016 11:34:56 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/salaryadd.php on line 13
+[27-Nov-2016 11:35:19 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/salaryadd.php on line 13
+[27-Nov-2016 11:35:42 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/brenardc/public_html/salaryadd.php on line 13
+[27-Nov-2016 11:36:17 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/salaryadd.php on line 19
+[27-Nov-2016 13:01:55 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/rosteradd.php on line 17
+[27-Nov-2016 13:15:25 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/rosteradd.php on line 17
+[27-Nov-2016 13:16:45 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/rosteradd.php on line 17
+[27-Nov-2016 13:24:57 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/brenardc/public_html/rosteradd.php on line 19
+[27-Nov-2016 13:33:08 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/addsalary.php on line 6
+[27-Nov-2016 13:33:53 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/addsalary.php on line 6
+[27-Nov-2016 13:34:05 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/brenardc/public_html/addsalary.php on line 6
+[27-Nov-2016 13:48:31 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/brenardc/public_html/rosteradd.php on line 19
+[28-Nov-2016 09:07:51 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/schedule.php on line 4
+[29-Nov-2016 05:26:38 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/brenardc/public_html/schedule.php on line 4
